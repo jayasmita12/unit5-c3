@@ -1,6 +1,7 @@
 import {React} from "react"
 import {useState} from "react"
 export const Admin = () => {
+    
 
    const [admin,setAdmin] =useState({
         employee_name:"",
