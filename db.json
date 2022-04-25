@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "employee_name": "jayasmita",
+      "employee_id": "32",
+      "salary": "23456",
+      "image": "sbbds.png",
+      "username": "jayasmita",
+      "password": "123",
+      "task": "",
+      "title": "Jr Software Developer",
+      "tasks": "123eeer",
+      "status": "working",
+      "team": "frontend",
+      "id": 1
+    }
+  ]
+}
